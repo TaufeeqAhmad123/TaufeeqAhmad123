@@ -26,10 +26,13 @@
    <a href="https://www.linkedin.com/in/taufeeq-ahmad-67b751264/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  
- 
 </div>
+
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+
 
 <hr/>
 
