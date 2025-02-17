@@ -11,6 +11,10 @@
   <a href="https://github.com/TaufeeqAhmad123">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="mailto:taufeeqahmad.cs@hmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=social&logo=gmail&logoColor=Red&labelColor=Blue&color=Blue"/>
+  </a>
+ 
  
    <a href="https://www.instagram.com/_taufeeq_ahmad">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -22,12 +26,13 @@
    <a href="https://www.linkedin.com/in/taufeeq-ahmad-67b751264/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   
  
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,postman,figma,xd,mongodb&perline=5)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaufeeqAhmad123&show_icons=true&theme=dark)
 
@@ -35,4 +40,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [TaufeeqAhmad](https://github.com/TaufeeqAhmad123)
