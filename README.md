@@ -3,7 +3,7 @@
 - 🔭 I’m skilled in mobile development and passionate about crafting exceptional user experiences. Proficient in creating and deploying cross-platform software solutions using Flutter and React Native.
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: taufeeqahmad.cs@gmial.com
+- 📫 How to reach me: taufeeqahmad.cs@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
